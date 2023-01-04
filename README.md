@@ -1,1 +1,1 @@
-# PrudentGaming_SLotMachine
+# PGSLotMachine
